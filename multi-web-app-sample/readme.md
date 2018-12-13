@@ -1,3 +1,3 @@
-¸Ã¹¤³ÌÑÝÊ¾ÈçºÎ½«¶à¸ö Web Ó¦ÓÃºÏ²¢²¿Êð£¬ÆäÖÐ app-one Ó¦ÓÃÒÀÀµ app-two Ó¦ÓÃ·¢²¼µÄ SOFA Jvm ·þÎñ£¬ÑÝÊ¾²½ÖèÈçÏÂ:
+è¯¥å·¥ç¨‹æ¼”ç¤ºå¦‚ä½•å°†å¤šä¸ª Web åº”ç”¨åˆå¹¶éƒ¨ç½²ï¼Œå…¶ä¸­ app-one åº”ç”¨ä¾èµ– app-two åº”ç”¨å‘å¸ƒçš„ SOFA Jvm æœåŠ¡ã€‚
 
-¹Ø¼üÌá¹©ÁË spring-plugin, ½« tomcat Ïà¹ØÀàµ¼³ö£¬×ö³ÉÁË ark plugin. ¸øÆäËû Spring Boot Web Ó¦ÓÃÒÀÀµ
+å…³é”®æä¾›äº† spring-plugin, å°† tomcat ç›¸å…³ç±»å¯¼å‡ºï¼Œåšæˆäº† ark plugin. ç»™å…¶ä»– Spring Boot Web åº”ç”¨ä¾èµ–
