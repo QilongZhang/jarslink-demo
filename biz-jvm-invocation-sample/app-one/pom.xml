@@ -2,11 +2,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <parent>
-        <groupId>com.alipay.sofa</groupId>
-        <artifactId>sofaboot-dependencies</artifactId>
-        <version>3.0.0</version>
-    </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.qlong.tech</groupId>
@@ -35,18 +30,21 @@
         <dependency>
             <groupId>com.alipay.sofa</groupId>
             <artifactId>runtime-sofa-boot-plugin</artifactId>
+            <version>3.0.0</version>
         </dependency>
 
         <!-- 用于 IDE 运行或者执行测试用例 -->
         <dependency>
             <groupId>com.alipay.sofa</groupId>
             <artifactId>sofa-ark-springboot-starter</artifactId>
+            <version>${ark.version}</version>
         </dependency>
 
         <!-- web 应用 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+            <version>1.5.16.RELEASE</version>
         </dependency>
 
         <!-- facade -->
