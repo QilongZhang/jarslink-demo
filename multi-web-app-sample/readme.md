@@ -14,3 +14,4 @@
 
 + app-one 暴露了 hello 的 endpoint
 + app-two 暴露了 hello 的 endpoint, 但是打包时设置了 webContextPath 为 another, 因此可以访问 another/hello
++ sh execute.sh 可以拉起 app-one 应用
